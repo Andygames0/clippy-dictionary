@@ -40,8 +40,8 @@
         "Got any kettle corn?"
     ],
     "youtube": [
-        "Procrastinating again? Are you at work?",
-        "It appears you're trying to watch YouTube. Need some recommendations?"
+        "Hey! Let's watch some videos together! Type into the searchbar or click on a reccomended video to begin!",
+        "These videos are related to other videos or channels that you may have viewed in the past!"
     ],
     "slack": "Uuuuu soo official!!!",
     "duckduckgo": "You just made google angry!",
@@ -50,11 +50,8 @@
     "chat.burza": "I like this \"poor man slack\"!",
     "linkedin": "Looking for a job?",
     "google": [
-        "Maybe try some written literature?",
-        "Did you try to google it? Ohh!",
-        "Maybe try bing? wink wink...",
-        "Feeling lucky?",
-        "Try Google Gravity. It's not too bad."
+        "Welcome to Google! What do you need help with? 🔘 Search 🔘 Settings 🔘 New Tab",
+        "You can save bookmarks by pressing the ⭐ icon!"
     ],
     "mrdoob.com/projects/chromeexperiments/google-gravity": "WEEEE! :D",
     "pornhub": [
@@ -64,8 +61,7 @@
     ],
     "xxxhamster": "I was just looking for cute hamsters... :(",
     "live.com": [
-        "I am homeeee",
-        "It looks like you're on Outlook. Would you like some help?"
+        "You can send Emails here! Press the 'New Messgae' button to begin!"
     ],
     "docs.microsoft": "Can you make me into an app?",
     "microsoft.com/en-us/microsoft-365/word": [
@@ -110,8 +106,7 @@
         "Maybe try Outlook? wink wink..."
     ],
     "mail.google.com": [
-        "Do you need glasses?",
-        "Maybe try Outlook? Wink wink..."
+        "Welcome to Google Mail!
     ],
     "meet.google.com": [
         "Who're you meeting?",
